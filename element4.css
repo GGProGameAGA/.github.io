@@ -1,0 +1,67 @@
+.element4{
+    min-height: 315px;
+    background-color: #EBEBEB;
+}
+.element4__block1 {
+    display: flex;
+    margin: 0 165px 90px 165px;
+    padding-top: 90px;
+}
+#btn1 {
+    border: 1px solid #c4c4c4;
+    padding: 34px 29px 46px 29px;
+    margin: 0 30px 0 0;
+    cursor: pointer;
+}
+.element4__img1 {
+}
+#btn2 {
+    border: 1px solid #c4c4c4;
+    padding: 41px 34px 41px 35px;
+    margin: 0 30px 0 0;
+    cursor: pointer;
+}
+.element4__img2 {
+}
+#btn3 {
+    border: 1px solid #c4c4c4;
+    padding: 57px 15px 57px 15px;
+    margin: 0 30px 0 0;
+    cursor: pointer;
+}
+.element4__img3 {
+}
+#btn4 {
+    border: 1px solid #c4c4c4;
+    padding: 54px 23px 55px 23px;
+    cursor: pointer;
+}
+.element4__img4 {
+}
+.element4__frame1 {
+
+}
+.element4__frame1:hover {
+    background-color: #c3c3c3;
+}
+.element4__frame2:hover {
+    background-color: #c3c3c3;
+}
+.element4__frame3:hover {
+    background-color: #c3c3c3;
+}
+.element4__frame4:hover {
+    background-color: #c3c3c3;
+}
+.element4__frame1.active {
+    background-color: #c3c3c3;
+}
+#tab_2 {
+
+}
+#tab_3 {
+
+}
+#tab_4 {
+    
+}

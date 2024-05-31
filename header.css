@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+html {
+    box-sizing: border-box;
+}
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+body {
+    margin: 0;
+}
+.header {
+    min-height: 80px;
+}
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.header__block1 {
+    display: flex;
+}
+.header__rectangle7 {
+    background: #DDDDDD;
+    height: 1px;
+    width: 1440px;
+    position: absolute;
+    top: 80px;
+}
+.header__frame85 {
+    margin: 29px 0 0 165px;
+    display: flex;
+}
+.header__ellipse3 {
+    width: 17px;
+    height: 17px;
+    border: 1px solid #333333;
+    border-radius: 50%;
+    margin: 2.5px 0 2.5px 0;
+}
+.header__simple {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 22.98px;
+    color: #333333;
+    margin: 0 0 0 5px;
+}
+.header__rectangle3 {
+    width: 32px;
+    height: 17px;
+    border: 1px solid #333333;
+    border-radius: 11px;
+    margin: 2.5px 0 2.5px 5px;
+}
+.header__ellipse1 {
+    width: 17px;
+    height: 17px;
+    border: 1px solid #333333;
+    border-radius: 50%;
+    margin: 2.5px 0 2.5px 5px;
+}
+.header__frame134 {
+    margin: 29px 0 0 0px;
+    display: flex;
+}
+.header__burger-menu {
+    max-height: 24px;
+    display: flex;
+}
+.header__menu-icon {
+    transform: rotate(0deg);
+    transition: transform 0.3s ease-in-out;
+    margin: 0 0 0 836.625px;
+    cursor: pointer;
+    position: relative;
+}
+.header__menu-icon.rotated {
+    transform: rotate(90deg);
+}
+.header__menu_items {
+    margin: 0 0 0 242px;
+    cursor: pointer;
+    display: none;
+    position: absolute;
+}
+.text1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23.44px;
+    color: #4C5866;
+}
+.text2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23.44px;
+    color: #4C5866;
+    margin: 0 0 0 60px;
+}
+.header__frame217 {
+    position: relative;
+    display: flex;
+}
+.header__search {
+    margin: 0 0 0 38px;
+}
+.header__log_in {
+    margin: 0 0 0 30px;
+}

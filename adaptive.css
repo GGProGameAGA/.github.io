@@ -1,0 +1,33 @@
+@media screen and (max-width: 768px) {
+    .header__menu_items {
+        margin: 0 0 0 130px;
+    }
+    .text2 {
+        font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 23.44px;
+        color: #4C5866;
+        margin: 0 0 0 32px;
+    }
+    .element1__layer2 {
+        width: 270px;
+        height: 540px;
+    }
+    .element2__frame136 {
+        margin: 0 0 0 291px;
+    }
+    .element2__frame137 {
+        margin: 0 0 0 291px;
+    }
+    .element2__frame138 {
+        margin: 0 0 0 291px;
+    }
+    .element2__frame215 {
+        width: 330px;
+        height: 256px;
+    }
+    .element2__frame207 {
+        margin: 0 165px 0 0;
+    }
+}

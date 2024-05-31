@@ -1,0 +1,45 @@
+.element5 {
+    min-height: 500px;
+}
+.element5__block1 {
+    display: none;
+}
+.element5__block1.active {
+    display: flex;
+}
+.element5__group {
+    margin: 114px 30px 114px 165px;
+}
+.element5__text1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px;
+    color: #666666;
+    margin-bottom: 8px;
+}
+.element5__text2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30.6px;
+    color: #85859B;
+    margin-bottom: 30px;
+}
+.element5__btn {
+    width: 254px;
+    height: 69px;
+    border: 1px solid #7875FE;
+    padding: 20px 50px 20px 50px;
+}
+.element5__text3 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23.44px;
+    color: #7875FE;
+    text-align: center;
+}
+.element5__pic {
+    margin: 90px 165px 0 0;
+}

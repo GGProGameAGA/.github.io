@@ -1,0 +1,45 @@
+.element1 {
+    min-height: 620px;
+}
+.element1__block2 {
+    display: flex;
+}
+.element1__frame135 {
+    margin: 130px 125px 129px 165px;
+}
+.element1__text1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 60px;
+    color: #4C5866;
+    margin: 0 0 30px 0;
+}
+.element1__text2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #85859B;
+    margin: 0 0 30px 0;
+}
+.element1__block1 {
+    cursor: pointer;
+    width: 254px;
+    height: 69px;
+    border: 1px solid #7875FE;
+    padding: 20px 50px 20px 50px;
+    gap: 6px;
+}
+.element1__text3 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23.44px;
+    color: #7875FE;
+    text-align: center;
+}
+.element1__layer2 {
+    margin: 60px 165px 0 0;
+    position: relative;
+}

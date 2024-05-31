@@ -1,0 +1,105 @@
+.element2 {
+    min-height: 793px;
+    background-color: #EBEBEB;
+}
+.element2__frame216 {
+    display: flex;
+    margin: 0px 0 140px 0;
+    padding-top: 90px;
+}
+.element2__frame136 {
+    margin: 0 0 0 545px;
+    position: absolute;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+.element2__rectangle145 {
+    width: 350px;
+    height: 1px;
+    background-color: #C0C0C0;
+}
+.element2__frame213 {
+    display: flex;
+}
+.element2__img1 {
+    margin: 19px 30px 0 0;
+}
+.element2__group1 {
+    margin: 37px 0 0 0;
+}
+.element2__text1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #666666;
+}
+.element2__text2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #85859B;
+}
+.element2__frame137 {
+    margin: 0 0 0 545px;
+    position: absolute;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+.element2__frame138 {
+    margin: 0 0 0 545px;
+    position: absolute;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+.element2__frame215 {
+    margin: 0 0 0 165px;
+    padding-bottom: 90px;
+    display: flex;
+}
+.element2__img2 {
+    margin: 0 30px 0 0;
+}
+.element2__frame207 {
+    margin: 59px 165px 0 0;
+}
+.element2__textgg1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px;
+    color: #666666;
+    margin: 0 0 20px 0;
+}
+.element2__textgg2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30.6px;
+    color: #85859B;
+    margin: 0 0 10px 0;
+}
+.element2__textgg3 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30.6px;
+    color: #85859B;
+}
+.prev {
+    cursor: pointer;
+    margin: 40px 960px 0 165px;
+    width: 5%;
+    transform: scale(-1, 1) 
+}
+.next {
+    cursor: pointer;
+    margin: 40px 165px 0 0;
+    width: 5%;
+}
+.controls {
+}
+#ef1.active {
+    opacity: 1;
+}

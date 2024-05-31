@@ -1,0 +1,66 @@
+.footer {
+    min-height: 101px;
+}
+.footer__rectangle69 {
+    background-color: #4C5866;
+}
+.footer__frame {
+    display: flex;
+    margin: 28px 165px 28px 0;
+}
+.footer__f {
+    margin-right: 30px;
+}
+.footer__t {
+    margin-right: 30px;
+}
+.footer__i {
+    margin-right: 30px;
+}
+.footer__y {
+}
+.footer_block {
+    display: flex;
+}
+.footer__frame85 {
+    margin: 29px 787px 0 165px;
+    display: flex;
+}
+.footer__ellipse3 {
+    width: 17px;
+    height: 17px;
+    border: 1px solid #ffffff;
+    border-radius: 50%;
+    margin: 2.5px 0 2.5px 0;
+}
+.footer__simple {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 22.98px;
+    color: #ffffff;
+    margin: 0 0 0 5px;
+}
+.footer__rectangle3 {
+    width: 32px;
+    height: 17px;
+    border: 1px solid #ffffff;
+    border-radius: 11px;
+    margin: 2.5px 0 2.5px 5px;
+}
+.footer__ellipse1 {
+    width: 17px;
+    height: 17px;
+    border: 1px solid #ffffff;
+    border-radius: 50%;
+    margin: 2.5px 0 2.5px 5px;
+}
+.footer__simplelow {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15.23px;
+    color: #4C5866;
+    margin: 3px 674px 3px 674px;
+    text-transform: uppercase;
+}
